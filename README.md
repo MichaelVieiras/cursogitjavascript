@@ -1,8 +1,22 @@
-1. Título: VoeAirlines - FrontEnd
-2. Descrição: Uma empresa de aeronaves
-3. Funcionalidades: Cadastro de Aeronaves
-4. Tecnologias: Html, Css, Javascript, node, react
-5. Inicialização: Como iniciar: git clone, vs code, extensões
+<h1>VoeAirlines - FrontEnd</h1>
+> Uma empresa de aeronaves
+> Diversas funcionalidades desde Cadastro de Aeronaves até geração de relatórios
+> Recomendavel instalação do VS Code
+'''
+https://code.visualstudio.com/
+'''
+> Extensão Live Server
+'''
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+'''
+ou Live Preview
+'''
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
+'''
+> Para iniciar o projeto use
+'''
+git clone https://github.com/MichaelVieiras/cursogitjavascript.git
+'''
 6. Implementação futura
 7. Colaboradores: Michael Vieira
 8. Status: Em desenvolvimento
