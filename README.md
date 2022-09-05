@@ -33,5 +33,7 @@ git clone https://github.com/romulosilvestre/cursogitjavascript.git
 ```
 
 >>Implementação futura
+
 >>Colaboradores: Michael Vieira
+
 >>Status: Em desenvolvimento
